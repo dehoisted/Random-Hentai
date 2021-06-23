@@ -7,9 +7,12 @@ GUI made using basic wxWidgets functions
 wxWidgets download: https://www.wxwidgets.org/downloads/
 
 # Dependencies
-jsoncpp.dll, used for the JSON response parsing
-libcurl.dll, used to make the web request
-zlib1.dll, zlib data compression library
+jsoncpp.dll, used for the JSON response parsing                                                                                                                                 
+
+libcurl.dll, used to make the web request                                                                                                                                       
+
+zlib1.dll, zlib data compression library                                                                                                                                      
+
 Used a libcurl wrapper, CPR: https://whoshuu.github.io/cpr/
 
 # Image
