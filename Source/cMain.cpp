@@ -126,10 +126,10 @@ cMain::cMain() : wxFrame(nullptr, wxID_ANY, title, wxPoint(60, 60), wxSize(440, 
     ex_menu1->Append(71, "Credits");
     extra->Append(ex_menu1, "Extra");
 
-	info_text1 = new wxButton(this, wxID_ANY, "Change desktop background to random hentai tool", wxPoint(10, 10), wxSize(285, 55));
+    info_text1 = new wxButton(this, wxID_ANY, "Change desktop background to random hentai tool", wxPoint(10, 10), wxSize(285, 55));
     change_bg = new wxButton(this, 69, "Change Background", wxPoint(10, 150), wxSize(160, 55));
-	data_log = new wxListBox(this, wxID_ANY, wxPoint(175, 70), wxSize(230, 190));
-	data_log->Append(wxT("LOG"));
+    data_log = new wxListBox(this, wxID_ANY, wxPoint(175, 70), wxSize(230, 190));
+    data_log->Append(wxT("LOG"));
     data_log->Append("");
 }
 
