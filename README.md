@@ -1,9 +1,9 @@
 # Random-Hentai
 Change your desktop background to random hentai using a GUI
 
-Hentai Api used: https://nekos.life/api/v2/img/hentai                                                                                                                           
-
 Compiled with MSVC on Release x86
+
+Hentai Api used: https://nekos.life/api/v2/img/hentai                                                                                                                           
 
 GUI made using basic wxWidgets functions
 
