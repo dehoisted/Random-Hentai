@@ -18,5 +18,6 @@ zlib1.dll, data compression library
 
 Used a libcurl wrapper, CPR: https://whoshuu.github.io/cpr/
 
-# Image
-![image](https://user-images.githubusercontent.com/75084509/123024873-c69b5580-d3a7-11eb-8882-c770f2a97b41.png)
+# Images
+![image](https://user-images.githubusercontent.com/75084509/123192637-56590680-d471-11eb-80d4-3e8f20930444.png)
+
