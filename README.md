@@ -20,4 +20,4 @@ Used a libcurl wrapper, CPR: https://whoshuu.github.io/cpr/
 
 # Images
 ![image](https://user-images.githubusercontent.com/75084509/123192637-56590680-d471-11eb-80d4-3e8f20930444.png)
-
+![image](https://user-images.githubusercontent.com/75084509/123193199-560d3b00-d472-11eb-8436-083fc58e004f.png)
